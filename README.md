@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Anuj Kumar
 <a href="https://www.linkedin.com/in/anuj-kumar-07178516a/"><img src="https://img.shields.io/badge/anuj-kumar-07178516a/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
