@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/anuj-kumar-07178516a/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anuj-kumar-07178516a/"><img src="https://img.shields.io/badge/anuj-kumar-07178516a/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
