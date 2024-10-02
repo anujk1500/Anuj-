@@ -1,7 +1,6 @@
 # Hello, I'm Anuj Kumar
 <a href="https://www.linkedin.com/in/anuj-kumar-07178516a/"><img src="https://img.shields.io/badge/anuj-kumar-07178516a/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Results-driven experienced IT Professional with a strong foundation in cybersecurity principles and practices.Solid background in threat analysis, risk management, and incident response. Proficient in implementing security measures, conducting vulnerability assessments, and utilizing SIEM tools to monitor and respond to security incidents.Sucessfully identified and resolved 50+ security vulnerabilities,implemented effective security measures that resulted in 30% decrease in cybersecurity incidents and conducted risk assessments for critical systems.Eager to contribute to a dynamic cybersecurity team to enhance organizational security posture and protect critical assets. Seeking to leverage skills and knowledge in a challenging cybersecurity role.
 
